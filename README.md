@@ -1,4 +1,4 @@
-# iker-jimenez-automatizado-fakeyou
+# Ikénez: Automatizador de monólogos de la nave del misterio
 ## Información básica:
 
 Este cuaderno sirve para subir audios de Íker Jiménez generados en FakeYou gracias a la tecnología Tacotron 2.
