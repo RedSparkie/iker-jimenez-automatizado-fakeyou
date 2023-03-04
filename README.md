@@ -1,4 +1,6 @@
 # iker-jimenez-automatizado-fakeyou
+## Información básica:
+
 Este cuaderno sirve para subir audios de Íker Jiménez generados en FakeYou gracias a la tecnología Tacotron 2.
 
 De esta forma, no tendrás la necesidad de abrir tu DAW para añadir _Shine on your crazy diamonds_ y tener que unir los audios.
@@ -7,6 +9,8 @@ El [cuaderno](https://github.com/RedSparkie/iker-jimenez-automatizado-fakeyou/bl
 
 
 TODO: Mejorar la voz, próximamente.
+
+## Licencia: 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -18,6 +22,8 @@ Este trabajo ha sido licenciado mediante una
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+## Disclaimer:
 
 El objetivo de este proyecto es el de aprendizaje. Los desarrolladores lo hacen sin ningún
 ánimo de lucro. La licencia sirve para que se nos atribuya el trabajo y para impedir la comercialización
